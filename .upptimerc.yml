@@ -3,14 +3,22 @@ owner: damoun # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: Twitch Channel
+  - name: twitch.tv/dam0un
     url: https://twitch.tv/dam0un
+    expectedStatusCodes:
+      - 200
   - name: dam0un.live
     url: https://dam0un.live
+    expectedStatusCodes:
+      - 200
   - name: damien.plenard.me
     url: https://damien.plenard.me
-  - name: Veepee
-    url: https://www.veepee.com
+    expectedStatusCodes:
+      - 200
+  - name: veepee.fr
+    url: https://www.veepee.fr/authentication/portal/FR
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,6 +34,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+user-agent: $OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
