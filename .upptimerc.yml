@@ -12,10 +12,14 @@ sites:
     url: https://dam0un.live
     expectedStatusCodes:
       - 200
+    assignees:
+      - $OWNER
   - name: damien.plenard.me
     url: https://damien.plenard.me
     expectedStatusCodes:
       - 200
+    assignees:
+      - $OWNER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
