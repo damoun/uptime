@@ -15,10 +15,6 @@ sites:
     url: https://damien.plenard.me
     expectedStatusCodes:
       - 200
-  - name: veepee.fr
-    url: https://www.veepee.fr/authentication/portal/FR
-    expectedStatusCodes:
-      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
