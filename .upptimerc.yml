@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: twitch.tv/dam0un
     url: https://www.twitch.tv/dam0un
+    icon: https://www.twitch.tv/favicon.ico
     expectedStatusCodes:
       - 200
   - name: dam0un.live
