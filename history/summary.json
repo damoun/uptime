@@ -2,7 +2,7 @@
   {
     "name": "twitch.tv/dam0un",
     "url": "https://www.twitch.tv/dam0un",
-    "icon": "https://favicons.githubusercontent.com/www.twitch.tv",
+    "icon": "https://www.twitch.tv/favicon.ico",
     "slug": "twitch-tv-dam0un",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "time": 212,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
