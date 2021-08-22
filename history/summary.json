@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 185,
-    "timeWeek": 185,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 182,
+    "timeDay": 182,
+    "timeWeek": 182,
+    "timeMonth": 182,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/dam0un.live",
     "slug": "dam0un-live",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.38%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 140,
     "timeDay": 140,
     "timeWeek": 140,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2021-08-22": 0
+      "2021-08-22": 6
     }
   },
   {
@@ -48,11 +48,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "status.damoun.cloud",
+    "url": "https://status.damoun.cloud",
+    "icon": "https://favicons.githubusercontent.com/status.damoun.cloud",
+    "slug": "status-damoun-cloud",
+    "status": "down",
+    "uptime": "16.98%",
+    "uptimeDay": "16.98%",
+    "uptimeWeek": "16.98%",
+    "uptimeMonth": "16.98%",
+    "uptimeYear": "16.98%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   }
 ]
