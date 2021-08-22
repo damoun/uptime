@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 194,
+    "timeDay": 194,
+    "timeWeek": 194,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://dam0un.live",
     "icon": "https://favicons.githubusercontent.com/dam0un.live",
     "slug": "dam0un-live",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 140,
-    "timeDay": 140,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 140,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
+    "time": 144,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2021-08-22": 6
+      "2021-08-22": 11
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 196,
+    "timeDay": 196,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://status.damoun.cloud",
     "icon": "https://favicons.githubusercontent.com/status.damoun.cloud",
     "slug": "status-damoun-cloud",
-    "status": "down",
-    "uptime": "8.03%",
-    "uptimeDay": "8.03%",
-    "uptimeWeek": "8.03%",
-    "uptimeMonth": "8.03%",
-    "uptimeYear": "8.03%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.21%",
+    "uptimeDay": "1.21%",
+    "uptimeWeek": "1.21%",
+    "uptimeMonth": "1.21%",
+    "uptimeYear": "1.21%",
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2021-08-22": 0
+      "2021-08-22": 5
     }
   }
 ]
