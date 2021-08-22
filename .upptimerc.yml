@@ -20,6 +20,12 @@ sites:
       - 200
     assignees:
       - $OWNER
+  - name: damoun.link
+    url: https://damoun.link
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - $OWNER
   - name: status.damoun.cloud
     url: https://status.damoun.cloud
     expectedStatusCodes:
