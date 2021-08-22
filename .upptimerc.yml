@@ -29,7 +29,8 @@ sites:
   - name: damoun.club
     url: https://damoun.club
     expectedStatusCodes:
-      - 302
+      - 200
+    __dangerous__body_down: "invite invalid"
     assignees:
       - $OWNER
   - name: status.damoun.cloud
