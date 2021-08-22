@@ -22,18 +22,20 @@
     "url": "https://dam0un.live",
     "icon": "https://favicons.githubusercontent.com/dam0un.live",
     "slug": "dam0un-live",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 140,
     "timeDay": 140,
     "timeWeek": 140,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   },
   {
     "name": "damien.plenard.me",
