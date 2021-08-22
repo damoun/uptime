@@ -6,6 +6,7 @@ sites:
   - name: damoun.live
     url: https://damoun.live
     __dangerous__body_down: "sorry"
+    icon: https://www.twitch.tv/favicon.ico
     expectedStatusCodes:
       - 200
     assignees:
@@ -24,6 +25,7 @@ sites:
       - $OWNER
   - name: damoun.club
     url: https://damoun.club
+    icon: https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico
     expectedStatusCodes:
       - 200
     __dangerous__body_down: "invite invalid"
@@ -31,6 +33,7 @@ sites:
       - $OWNER
   - name: status.damoun.cloud
     url: https://status.damoun.cloud
+    icon: https://status.damoun.cloud/logo-192.png
     expectedStatusCodes:
       - 200
     assignees:
