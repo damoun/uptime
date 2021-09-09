@@ -13,12 +13,14 @@ sites:
       - $OWNER
   - name: damien.plenard.me
     url: https://damien.plenard.me
+    icon: https://damien.plenard.me/assets/images/favicon-32x32.png
     expectedStatusCodes:
       - 200
     assignees:
       - $OWNER
   - name: damoun.link
     url: https://damoun.link
+    icon: https://assets.production.linktr.ee/ed6b702d6a6a2565cf6f9cb504fe58e3121ef6fe/favicon/favicon-32x32.png
     expectedStatusCodes:
       - 200
     assignees:
