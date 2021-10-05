@@ -76,17 +76,19 @@
     "url": "https://status.damoun.cloud",
     "icon": "https://status.damoun.cloud/logo-192.png",
     "slug": "status-damoun-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 952,
-    "timeWeek": 271,
+    "time": 188,
+    "timeDay": 583,
+    "timeWeek": 263,
     "timeMonth": 196,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2021-10-05": 0
+    }
   }
 ]
