@@ -40,6 +40,13 @@ sites:
       - 200
     assignees:
       - $OWNER
+  - name: mc.damoun.games
+    check: "tcp-ping"
+    url: mc.damoun.games
+    port: 10011
+    icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
+    assignees:
+      - $OWNER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
