@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
-    "time": 335,
-    "timeDay": 361,
-    "timeWeek": 299,
-    "timeMonth": 546,
-    "timeYear": 335,
+    "time": 334,
+    "timeDay": 294,
+    "timeWeek": 290,
+    "timeMonth": 536,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2022-01-06": 64,
       "2022-01-05": 7
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 221,
-    "timeWeek": 246,
-    "timeMonth": 225,
+    "timeDay": 209,
+    "timeWeek": 240,
+    "timeMonth": 224,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
+    "time": 172,
     "timeDay": 129,
-    "timeWeek": 161,
-    "timeMonth": 159,
-    "timeYear": 173,
+    "timeWeek": 157,
+    "timeMonth": 158,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 508,
-    "timeDay": 385,
-    "timeWeek": 1292,
-    "timeMonth": 651,
-    "timeYear": 508,
+    "time": 507,
+    "timeDay": 374,
+    "timeWeek": 1176,
+    "timeMonth": 642,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2021-10-07": 185
     }
@@ -88,12 +88,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 173,
-    "timeDay": 120,
-    "timeWeek": 136,
-    "timeMonth": 150,
+    "timeDay": 151,
+    "timeWeek": 142,
+    "timeMonth": 151,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2021-10-05": 654
     }
+  },
+  {
+    "name": "mc.damoun.games",
+    "url": "mc.damoun.games",
+    "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
+    "slug": "mc-damoun-games",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
