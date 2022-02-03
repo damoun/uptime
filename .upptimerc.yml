@@ -41,10 +41,10 @@ sites:
     assignees:
       - $OWNER
   - name: mc.damoun.games
-    check: "tcp-ping"
-    url: mc.damoun.games
-    port: 10011
+    url: http://mc.damoun.games
     icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
+    expectedStatusCodes:
+      - 200
     assignees:
       - $OWNER
 
