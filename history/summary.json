@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 331,
-    "timeDay": 330,
-    "timeWeek": 298,
-    "timeMonth": 531,
-    "timeYear": 331,
+    "time": 336,
+    "timeDay": 728,
+    "timeWeek": 390,
+    "timeMonth": 549,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2022-01-06": 64,
       "2022-01-05": 7
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 286,
-    "timeWeek": 254,
-    "timeMonth": 236,
+    "timeDay": 276,
+    "timeWeek": 255,
+    "timeMonth": 237,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 157,
-    "timeWeek": 184,
+    "timeDay": 162,
+    "timeWeek": 182,
     "timeMonth": 162,
     "timeYear": 172,
     "dailyMinutesDown": {}
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 503,
-    "timeDay": 396,
-    "timeWeek": 456,
-    "timeMonth": 641,
-    "timeYear": 503,
+    "time": 502,
+    "timeDay": 399,
+    "timeWeek": 450,
+    "timeMonth": 634,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2021-10-07": 185
     }
@@ -88,8 +88,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 173,
-    "timeDay": 177,
-    "timeWeek": 193,
+    "timeDay": 174,
+    "timeWeek": 191,
     "timeMonth": 158,
     "timeYear": 173,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
   },
   {
     "name": "mc.damoun.games",
-    "url": "http://mc.damoun.games",
+    "url": "http://62.210.45.167:40001",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "mc-damoun-games",
     "status": "up",
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 166,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 195,
+    "timeDay": 268,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   }
 ]
