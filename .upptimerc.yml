@@ -41,7 +41,7 @@ sites:
     assignees:
       - $OWNER
   - name: mc.damoun.games
-    url: http://mc.damoun.games
+    url: http://62.210.45.167:40001
     icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico
     expectedStatusCodes:
       - 200
