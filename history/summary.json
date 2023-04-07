@@ -66,19 +66,19 @@
     "url": "https://damoun.club",
     "icon": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico",
     "slug": "damoun-club",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 772,
+    "timeDay": 695,
     "timeWeek": 539,
-    "timeMonth": 443,
+    "timeMonth": 446,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2023-04-07": 0
+      "2023-04-07": 12
     }
   },
   {
@@ -118,7 +118,7 @@
     "timeMonth": 259,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2023-04-07": 1293,
+      "2023-04-07": 1306,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
