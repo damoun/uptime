@@ -47,6 +47,19 @@ sites:
       - 200
     assignees:
       - $OWNER
+  - name: grafana.damoun.cloud
+    url: https://grafana.damoun.cloud
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - $OWNER
+  - name: charts.damoun.dev
+    url: https://charts.damoun.dev/index.yaml
+    icon: https://helm.sh/img/favicon-152.png
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - $OWNER
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -63,6 +76,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Grafana
+      href: https://grafana.damoun.cloud
 
 user-agent: $OWNER
 
