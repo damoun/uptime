@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 429,
+    "time": 231,
+    "timeDay": 310,
     "timeWeek": 260,
-    "timeMonth": 186,
+    "timeMonth": 191,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2023-10-03": 25
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 226,
-    "timeWeek": 162,
+    "timeDay": 71,
+    "timeWeek": 163,
     "timeMonth": 135,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 50,
-    "timeWeek": 91,
-    "timeMonth": 113,
+    "timeDay": 117,
+    "timeWeek": 96,
+    "timeMonth": 114,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 425,
-    "timeDay": 448,
-    "timeWeek": 445,
-    "timeMonth": 416,
-    "timeYear": 418,
+    "timeDay": 805,
+    "timeWeek": 526,
+    "timeMonth": 418,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2023-10-11": 28,
       "2023-09-30": 11,
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 53,
-    "timeWeek": 110,
+    "timeDay": 103,
+    "timeWeek": 115,
     "timeMonth": 128,
-    "timeYear": 133,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2023-10-03": 24
     }
@@ -114,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-11-20": 1259,
+      "2023-11-21": 19,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -442,8 +443,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -452,18 +452,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.damoun.cloud.ico",
     "slug": "grafana-damoun-cloud",
     "status": "down",
-    "uptime": "22.17%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptime": "22.16%",
+    "uptimeDay": "86.11%",
+    "uptimeWeek": "98.02%",
     "uptimeMonth": "37.15%",
-    "uptimeYear": "22.17%",
+    "uptimeYear": "22.16%",
     "time": 654,
-    "timeDay": 821,
-    "timeWeek": 755,
+    "timeDay": 0,
+    "timeWeek": 787,
     "timeMonth": 762,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2023-11-20": 0,
+      "2023-11-21": 19,
+      "2023-11-20": 181,
       "2023-11-09": 145,
       "2023-11-08": 1286,
       "2023-11-07": 1440,
@@ -659,11 +660,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 153,
-    "timeDay": 90,
-    "timeWeek": 103,
-    "timeMonth": 134,
-    "timeYear": 153,
+    "time": 152,
+    "timeDay": 86,
+    "timeWeek": 107,
+    "timeMonth": 133,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2023-10-03": 24
     }
