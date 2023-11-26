@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 195,
-    "timeWeek": 215,
-    "timeMonth": 187,
-    "timeYear": 238,
+    "timeDay": 381,
+    "timeWeek": 249,
+    "timeMonth": 197,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 75,
-    "timeWeek": 147,
-    "timeMonth": 139,
+    "timeDay": 102,
+    "timeWeek": 152,
+    "timeMonth": 140,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 97,
-    "timeWeek": 102,
-    "timeMonth": 113,
+    "time": 135,
+    "timeDay": 110,
+    "timeWeek": 104,
+    "timeMonth": 114,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 426,
-    "timeDay": 284,
-    "timeWeek": 493,
-    "timeMonth": 425,
+    "timeDay": 286,
+    "timeWeek": 462,
+    "timeMonth": 427,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2023-10-11": 28,
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 109,
-    "timeWeek": 91,
-    "timeMonth": 113,
+    "timeDay": 75,
+    "timeWeek": 79,
+    "timeMonth": 112,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2023-10-03": 24
@@ -103,7 +103,7 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "mc-damoun-games",
     "status": "down",
-    "uptime": "33.47%",
+    "uptime": "33.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -114,7 +114,8 @@
     "timeMonth": 0,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-11-25": 18,
+      "2023-11-26": 20,
+      "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -442,8 +443,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -452,15 +452,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.damoun.cloud.ico",
     "slug": "grafana-damoun-cloud",
     "status": "up",
-    "uptime": "21.90%",
-    "uptimeDay": "31.02%",
+    "uptime": "22.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "45.32%",
-    "uptimeMonth": "38.17%",
-    "uptimeYear": "21.90%",
+    "uptimeMonth": "41.46%",
+    "uptimeYear": "22.25%",
     "time": 652,
-    "timeDay": 579,
-    "timeWeek": 667,
-    "timeMonth": 742,
+    "timeDay": 607,
+    "timeWeek": 647,
+    "timeMonth": 736,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2023-11-24": 1011,
@@ -663,11 +663,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 152,
-    "timeDay": 186,
-    "timeWeek": 103,
+    "time": 151,
+    "timeDay": 75,
+    "timeWeek": 102,
     "timeMonth": 129,
-    "timeYear": 152,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2023-10-03": 24
     }
