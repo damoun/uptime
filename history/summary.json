@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-12-01": 19,
+      "2023-12-01": 21,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
@@ -453,7 +453,7 @@
     "slug": "grafana-damoun-cloud",
     "status": "down",
     "uptime": "23.45%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.84%",
     "uptimeWeek": "74.75%",
     "uptimeMonth": "57.64%",
     "uptimeYear": "23.45%",
@@ -463,7 +463,7 @@
     "timeMonth": 1250,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2023-12-01": 0,
+      "2023-12-01": 2,
       "2023-11-28": 224,
       "2023-11-27": 750,
       "2023-11-26": 578,
