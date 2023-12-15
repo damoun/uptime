@@ -1,7 +1,7 @@
 url: https://grafana.damoun.cloud
-status: down
-code: 409
-responseTime: 410
-lastUpdated: 2023-12-15T21:35:05.952Z
+status: up
+code: 200
+responseTime: 628
+lastUpdated: 2023-12-15T21:43:47.862Z
 startTime: 2023-04-12T09:53:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
