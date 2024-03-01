@@ -69,8 +69,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   theme: night
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Explore My World in Real-Time, powered entirely by GitHub with Upptime."
+  introMessage: Dive into my personal status page to track the heartbeat from my Grafana to gaming servers or websites. Experience real-time updates, ensuring you're always in sync with the performance of these key elements. It's your window into the seamless operation of my digital domain. Welcome to the pulse of my online presence!
   navbar:
     - title: Status
       href: /
