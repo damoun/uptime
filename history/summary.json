@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 117,
-    "timeWeek": 167,
-    "timeMonth": 193,
-    "timeYear": 239,
+    "timeDay": 123,
+    "timeWeek": 164,
+    "timeMonth": 194,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-10-03": 25
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 217,
-    "timeWeek": 194,
+    "timeDay": 77,
+    "timeWeek": 189,
     "timeMonth": 147,
-    "timeYear": 173,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 121,
-    "timeWeek": 110,
+    "timeDay": 101,
+    "timeWeek": 109,
     "timeMonth": 117,
     "timeYear": 121,
     "dailyMinutesDown": {}
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 424,
-    "timeDay": 267,
-    "timeWeek": 380,
-    "timeMonth": 534,
+    "timeDay": 310,
+    "timeWeek": 385,
+    "timeMonth": 533,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2024-01-14": 8,
@@ -90,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 140,
-    "timeWeek": 125,
+    "timeDay": 72,
+    "timeWeek": 122,
     "timeMonth": 118,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "mc-damoun-games",
     "status": "down",
-    "uptime": "63.96%",
+    "uptime": "64.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -178,18 +178,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.damoun.cloud.ico",
     "slug": "grafana-damoun-cloud",
     "status": "down",
-    "uptime": "25.49%",
+    "uptime": "25.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.96%",
-    "time": 619,
-    "timeDay": 89,
-    "timeWeek": 76,
-    "timeMonth": 261,
-    "timeYear": 613,
+    "uptimeYear": "24.66%",
+    "time": 617,
+    "timeDay": 102,
+    "timeWeek": 81,
+    "timeMonth": 253,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-04-14": 22,
+      "2024-04-15": 155,
+      "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
@@ -475,8 +476,7 @@
       "2023-04-26": 609,
       "2023-04-25": 937,
       "2023-04-23": 53,
-      "2023-04-20": 33,
-      "2023-04-16": 12
+      "2023-04-20": 33
     }
   },
   {
@@ -491,10 +491,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 100,
+    "timeDay": 96,
     "timeWeek": 139,
-    "timeMonth": 311,
-    "timeYear": 155,
+    "timeMonth": 182,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2023-10-03": 24
     }
