@@ -22,19 +22,19 @@
     "url": "https://damien.plenard.me",
     "icon": "https://damien.plenard.me/assets/images/favicon-32x32.png",
     "slug": "damien-plenard-me",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 213,
-    "timeWeek": 230,
-    "timeMonth": 240,
+    "time": 189,
+    "timeDay": 210,
+    "timeWeek": 227,
+    "timeMonth": 239,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-04-29": 8
+      "2025-04-29": 22
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 120,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-04-29": 27,
+      "2025-04-29": 42,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
