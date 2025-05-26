@@ -22,10 +22,10 @@
     "url": "https://damien.plenard.me",
     "icon": "https://damien.plenard.me/assets/images/favicon-32x32.png",
     "slug": "damien-plenard-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 192,
@@ -34,6 +34,7 @@
     "timeMonth": 197,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2025-05-26": 1,
       "2025-04-29": 22
     }
   },
@@ -97,7 +98,7 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "mc-damoun-games",
     "status": "down",
-    "uptime": "76.03%",
+    "uptime": "76.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -115,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.damoun.cloud.ico",
     "slug": "grafana-damoun-cloud",
     "status": "down",
-    "uptime": "12.10%",
+    "uptime": "12.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -126,7 +127,7 @@
     "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-05-26": 29,
+      "2025-05-26": 1126,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
