@@ -4,10 +4,10 @@
     "url": "https://damoun.live",
     "icon": "https://www.twitch.tv/favicon.ico",
     "slug": "damoun-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
@@ -15,7 +15,9 @@
     "timeWeek": 246,
     "timeMonth": 525,
     "timeYear": 309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 1
+    }
   },
   {
     "name": "damien.plenard.me",
@@ -98,7 +100,7 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "mc-damoun-games",
     "status": "down",
-    "uptime": "77.55%",
+    "uptime": "77.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -116,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.damoun.cloud.ico",
     "slug": "grafana-damoun-cloud",
     "status": "down",
-    "uptime": "10.94%",
+    "uptime": "10.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -127,7 +129,7 @@
     "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-08-16": 27,
+      "2025-08-16": 1084,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
