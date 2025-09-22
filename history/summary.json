@@ -81,10 +81,10 @@
     "url": "https://status.damoun.cloud",
     "icon": "https://status.damoun.cloud/logo-192.png",
     "slug": "status-damoun-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
@@ -92,7 +92,9 @@
     "timeWeek": 125,
     "timeMonth": 136,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 1
+    }
   },
   {
     "name": "mc.damoun.games",
@@ -100,7 +102,7 @@
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
     "slug": "mc-damoun-games",
     "status": "down",
-    "uptime": "78.17%",
+    "uptime": "78.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -118,7 +120,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.damoun.cloud.ico",
     "slug": "grafana-damoun-cloud",
     "status": "down",
-    "uptime": "10.49%",
+    "uptime": "10.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -129,7 +131,7 @@
     "timeMonth": 125,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-09-22": 29,
+      "2025-09-22": 652,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -501,9 +503,9 @@
     "url": "https://charts.damoun.dev/index.yaml",
     "icon": "https://helm.sh/img/favicon-152.png",
     "slug": "charts-damoun-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -512,6 +514,8 @@
     "timeWeek": 160,
     "timeMonth": 190,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   }
 ]
