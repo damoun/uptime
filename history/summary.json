@@ -81,19 +81,19 @@
     "url": "https://status.damoun.cloud",
     "icon": "https://status.damoun.cloud/logo-192.png",
     "slug": "status-damoun-cloud",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 79,
-    "timeWeek": 125,
-    "timeMonth": 136,
+    "timeDay": 100,
+    "timeWeek": 124,
+    "timeMonth": 135,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-09-22": 1
+      "2025-09-22": 9
     }
   },
   {
@@ -131,7 +131,7 @@
     "timeMonth": 125,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-09-22": 652,
+      "2025-09-22": 660,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -503,19 +503,19 @@
     "url": "https://charts.damoun.dev/index.yaml",
     "icon": "https://helm.sh/img/favicon-152.png",
     "slug": "charts-damoun-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 244,
-    "timeWeek": 160,
-    "timeMonth": 190,
+    "time": 186,
+    "timeDay": 192,
+    "timeWeek": 157,
+    "timeMonth": 189,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 9
     }
   }
 ]
