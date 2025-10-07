@@ -4,10 +4,10 @@
     "url": "https://damoun.live",
     "icon": "https://www.twitch.tv/favicon.ico",
     "slug": "damoun-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "99.77%",
     "time": 300,
@@ -16,7 +16,7 @@
     "timeMonth": 320,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-10-07": 39,
+      "2025-10-07": 40,
       "2025-09-24": 1166,
       "2025-08-16": 13
     }
@@ -26,19 +26,19 @@
     "url": "https://damien.plenard.me",
     "icon": "https://damien.plenard.me/assets/images/favicon-32x32.png",
     "slug": "damien-plenard-me",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 284,
-    "timeWeek": 211,
+    "timeDay": 258,
+    "timeWeek": 214,
     "timeMonth": 224,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-10-07": 1,
+      "2025-10-07": 18,
       "2025-05-26": 9,
       "2025-04-29": 22
     }
@@ -136,7 +136,7 @@
     "timeMonth": 113,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-10-07": 1282,
+      "2025-10-07": 1300,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
