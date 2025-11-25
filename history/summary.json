@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-11-25": 901,
+      "2025-11-25": 913,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -77,9 +77,9 @@
     "slug": "damien-plenard-me",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 212,
     "timeDay": 184,
@@ -87,7 +87,7 @@
     "timeMonth": 198,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-11-25": 1,
+      "2025-11-25": 13,
       "2025-10-07": 18,
       "2025-05-26": 9,
       "2025-04-29": 22
@@ -100,9 +100,9 @@
     "slug": "damoun-link",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 136,
@@ -110,7 +110,7 @@
     "timeMonth": 125,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-11-25": 1
+      "2025-11-25": 13
     }
   },
   {
@@ -118,18 +118,19 @@
     "url": "https://damoun.club",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png",
     "slug": "damoun-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.96%",
     "time": 544,
     "timeDay": 626,
-    "timeWeek": 448,
+    "timeWeek": 442,
     "timeMonth": 570,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2025-11-25": 1,
       "2025-11-18": 180,
       "2025-10-07": 39
     }
@@ -141,9 +142,9 @@
     "slug": "status-damoun-cloud",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 179,
@@ -151,7 +152,7 @@
     "timeMonth": 147,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-11-25": 1,
+      "2025-11-25": 13,
       "2025-09-22": 9
     }
   },
@@ -190,7 +191,7 @@
     "timeMonth": 115,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-11-25": 901,
+      "2025-11-25": 913,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -564,9 +565,9 @@
     "slug": "charts-damoun-dev",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 191,
     "timeDay": 166,
@@ -574,7 +575,7 @@
     "timeMonth": 171,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-11-25": 0,
+      "2025-11-25": 13,
       "2025-10-07": 51,
       "2025-09-22": 9
     }
