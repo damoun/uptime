@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-11-25": 1303,
+      "2025-11-25": 1332,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -98,11 +98,11 @@
     "url": "https://damoun.link",
     "icon": "https://assets.production.linktr.ee/ed6b702d6a6a2565cf6f9cb504fe58e3121ef6fe/favicon/favicon-32x32.png",
     "slug": "damoun-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.05%",
+    "uptimeDay": "98.01%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 135,
     "timeDay": 159,
@@ -110,7 +110,7 @@
     "timeMonth": 126,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-11-25": 28
+      "2025-11-25": 29
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://damoun.club",
     "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png",
     "slug": "damoun-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.96%",
-    "time": 546,
+    "time": 545,
     "timeDay": 808,
     "timeWeek": 588,
     "timeMonth": 579,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-11-25": 16,
+      "2025-11-25": 17,
       "2025-11-18": 180,
       "2025-10-07": 39
     }
@@ -191,7 +191,7 @@
     "timeMonth": 115,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-11-25": 1303,
+      "2025-11-25": 1332,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
